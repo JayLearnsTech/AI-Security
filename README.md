@@ -7,6 +7,9 @@ A collection of resources for learning about AI Security
 ## 📰 Microsoft AI News
 - Introducing Microsoft Agent Framework - https://devblogs.microsoft.com/foundry/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/
 
+## 📚 Microsoft Foundry Resources
+- Microsoft Foundry (formerly Azure AI Foundry) Overview - https://www.youtube.com/watch?v=Sq8Cq7RZM2o
+
 ## 🛡️ Microsoft AI Security Resources
 - Microsoft Foundry - Content Safety - Documentation - https://learn.microsoft.com/en-us/azure/ai-services/content-safety/
 - Microsoft Foundry - Content Safety - Text Moderation - https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-text
